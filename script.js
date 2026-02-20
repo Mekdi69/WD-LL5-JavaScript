@@ -1,5 +1,9 @@
 console.log("Hello, World!");
 console.error("This is my first JavaScript error!");
-alert("Your Name");
-alert("Teammate 1");
-alert("Teammate 2");
+alert("Mekdem");
+alert("Mercy");
+alert("Juan");
+alert("Koby");
+alert("Leila");
+object: console.log(console);
+
